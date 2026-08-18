@@ -1,0 +1,30 @@
+SOL MAR - LANDING PAGE ATUALIZADA
+
+Alterações desta versão:
+- Engomadoria agora tem uma secção própria.
+- Preços de engomadoria à peça aparecem imediatamente dentro dessa secção.
+- Pacotes mensais de engomadoria aparecem na mesma secção, separados do restante.
+- Lavandaria tem uma secção própria logo a seguir.
+- Preços de peças específicas de lavandaria aparecem separados dos packs.
+- Packs de Lavandaria atualizados:
+  20 peças 50,00 €
+  30 peças 63,00 €
+  40 peças 82,00 €
+  50 peças 100,00 €
+  80 peças 148,00 €
+  100 peças 165,00 €
+  120 peças 186,00 €
+  150 peças 210,00 €
+  180 peças 225,00 €
+  200 peças 240,00 €
+- Lavandaria Profissional vem depois da Lavandaria.
+- Limpeza de Tapetes vem depois da Lavandaria Profissional.
+- Limpeza de Tapetes destacada desde 13 €/m².
+
+Telefone: 966 184 626
+WhatsApp: 939 564 774
+Instagram: @lavandariasolmar
+
+- Logo alterado para mostrar apenas o nome SOL MAR no topo e no rodapé.
+
+- Alterado novamente: no topo e no rodapé fica apenas o logo da Sol Mar, sem texto separado.
